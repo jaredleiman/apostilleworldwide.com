@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apostilleworldwide.com/sitemap.xml
